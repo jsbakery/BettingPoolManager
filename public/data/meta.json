@@ -1,0 +1,38 @@
+{
+  "version": 0.2,
+  "games": [
+    {
+      "file": "FinalWinners",
+      "title": "Champions 2018",
+      "isOpen": true,
+      "isLive": false,
+      "isComplete": false,
+      "teams": ["England", "Croatia", "France", "Belgium"],
+      "outcome": "Croatia"
+    },
+    {
+      "file": "France-Belgium",
+      "isOpen": true,
+      "isLive": false,
+      "isComplete": false,
+      "teams": ["France", "Belgium"],
+      "outcome": "France"
+    },
+    {
+      "file": "Croatia-England",
+      "isOpen": true,
+      "isLive": false,
+      "isComplete": false,
+      "teams": ["Croatia", "England"],
+      "outcome": "Croatia"
+    },
+    {
+      "file": "Russia-Croatia",
+      "isOpen": false,
+      "isLive": false,
+      "isComplete": true,
+      "teams": ["Russia", "Croatia"],
+      "outcome": "Croatia"
+    }
+  ]
+}
